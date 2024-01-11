@@ -1,3 +1,3 @@
 # AI Models Downloader
-Repository for downloading AI models
+Repository for searching and downloading AI models
 
