@@ -1,7 +1,6 @@
-from abc import ABC, abstractmethod
+from .base import AIModelAPI
 
 
-class APIAdapter(ABC):
-    @abstractmethod
-    def get(self, url):
-        pass
+__all__ = [
+    'AIModelAPI',
+]
