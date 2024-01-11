@@ -1,2 +1,3 @@
-# ai-model-database
-Database for AI models
+# AI Models Downloader
+Repository for downloading AI models
+
