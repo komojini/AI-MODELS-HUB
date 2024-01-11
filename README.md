@@ -1,3 +1,4 @@
-# AI Models Downloader
-Repository for searching and downloading AI models
+# AI Models Hub
+
+Find the best AI models that fit your needs.
 
